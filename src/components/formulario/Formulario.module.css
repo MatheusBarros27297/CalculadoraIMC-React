@@ -1,0 +1,35 @@
+.dados {
+    max-width: 480px;
+    margin: auto;
+    padding: 40px;
+    background: #4d4d4d;
+    border-radius: 12px;
+    text-align: center;
+    border: 2px solid #dff9fb;
+    color:rgb(230, 230, 230);
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #dff9fb;
+    border-radius: 5px;
+  }
+
+  label {
+    display: flex;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+  }
+
+  button {
+    margin-top: 24px;
+    padding: 12px 12px;
+    border-radius: 12px;
+    border: 2px solid rgb(230, 230, 230);
+    background-color: rgb(37, 106, 255);
+    color:rgb(230, 230, 230);
+    font-weight: bold;
+  }
+  
