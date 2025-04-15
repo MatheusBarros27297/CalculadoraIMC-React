@@ -74,7 +74,6 @@ function CalcularIMC() {
 
       {resultado && (
         <div>
-          <p>Seu IMC é: {resultado}</p>
           <p>Classificação: {getClassificacao(resultado)}</p>
         </div>
       )}
